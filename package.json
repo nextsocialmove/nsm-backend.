@@ -1,0 +1,11 @@
+{
+  "name": "nsm-backend",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.3",
+    "@vercel/node": "3.0.22"
+  }
+}
